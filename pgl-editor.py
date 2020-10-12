@@ -2,6 +2,7 @@
 
 import os
 import uuid
+import random
 from copy import deepcopy
 from pygamelib import constants
 from pygamelib import actuators
